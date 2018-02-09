@@ -10,5 +10,5 @@ Nécessite un compte Espertech (création gratuite), si nécessaire, demandez mo
 
 ### Description du programme
 
-Génère des évènements de bas niveau StockTick, quand la valeur prix d'un évènement StockTick dépasse la valeur 6, affiche un message.
+Génère des évènements de bas niveau StockTick, quand la moyenne des valeurs prix des deux derniers évènements StockTick dépasse la valeur 6, affiche un message.
 
